@@ -20,7 +20,7 @@ function App() {
           letterSpacing: "1.2px"
         }}
       >
-        Welcome To Devops class AIDS
+        Welcome To Devops class in smgg
       </h1> 
     </div>
   );
